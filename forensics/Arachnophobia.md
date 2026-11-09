@@ -2,6 +2,7 @@
 
 - **Category:** Forensics
 
+
 ## Solution
 
 ### 1. Static Analysis
