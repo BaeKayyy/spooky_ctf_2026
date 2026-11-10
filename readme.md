@@ -59,17 +59,3 @@ A collection of our solutions, techniques, and findings, organized by category.
 ### 🌐 Web Exploitation
 - [Hemophobia](webex/hemophobia.md)
 
-
-## 📌 A Note
-
-All write-ups are shared for educational purposes and knowledge sharing.
-
-The goal isn't just to capture flags, but to understand the vulnerabilities, techniques, and thought processes behind every solution.
-
----
-
-<p align="center">
-  <i>"One challenge at a time. One flag at a time."</i>
-  <br><br>
-  <b>TEAM ONEBYONE 👻</b>
-</p>
