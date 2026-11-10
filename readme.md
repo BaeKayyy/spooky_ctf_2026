@@ -1,43 +1,46 @@
 
-<h1 align="center">👻 SpookyCTF 2026</h1>
+<h1 align="center">👻 SPOOKYCTF 2026</h1>
 
 <p align="center">
-  <img src="spooky_CTF.png" alt="SpookyCTF 2026 Banner" width="700">
+  <img src="spooky_CTF.png" alt="SpookyCTF 2026" width="700">
 </p>
 
-<h3 align="center">Team OneByOne</h3>
+<h3 align="center">TEAM ONEBYONE</h3>
 
 <p align="center">
-  <b>Capture The Flag Write-ups & Solutions</b>
+  <i>Breaking things, solving puzzles, and chasing flags.</i>
 </p>
 
 <p align="center">
-  <img src="position.png" alt="Team Leaderboard Position" width="500">
+  <img src="position.png" alt="OneByOne Leaderboard" width="500">
 </p>
 
 ---
 
-## 🏆 Team Achievement
+## 🏆 The Results
 
-| Detail | Information |
-|---|---|
-| Team | OneByOne |
-| Rank | 322nd Place |
-| Score | 630 Points |
-| Event | SpookyCTF 2026 |
+| Category | Details |
+|:---|:---|
+| **Team** | OneByOne |
+| **Rank** | 322nd Place |
+| **Score** | 630 Points |
+| **Competition** | SpookyCTF 2026 |
 
-## 📖 About
 
-This repository contains our write-ups and solutions
-for challenges from **SpookyCTF 2026**.
+## 👾 Who Am I?
 
-Each write-up documents the analysis, methodology,
-tools, and techniques used to solve the challenges.
+I'm an independent CTF player with a growing passion for cybersecurity and problem-solving.
 
-Our goal is to document what we learned throughout
-the competition and share our problem-solving process.
+This repository documents my journey through **SpookyCTF 2026** — exploring challenges, analyzing vulnerabilities, breaking cryptographic puzzles, and uncovering hidden clues.
 
-## 📂 Write-ups
+Every challenge pushes me to think differently. Every flag teaches me something new.
+
+Still learning, still exploring, and always chasing the next flag.
+
+
+## 📂 Challenge Write-ups
+
+A collection of our solutions, techniques, and findings, organized by category.
 
 ### 💻 Binary Exploitation
 - [Toomuchscary](binrev/toomuchscary.md)
@@ -45,38 +48,28 @@ the competition and share our problem-solving process.
 
 ### 🔐 Cryptography
 - [Diagraphophobia](crypto/Diagraphophobia.md)
-- [Heads will Roll](crypto/Heads%20will%20Roll.md)
+- [Heads Will Roll](crypto/Heads_will_Roll.md)
 
 ### 🔍 Forensics
 - [Arachnophobia](forensics/Arachnophobia.md)
 - [Cleithrophobia](forensics/Cleithrophobia.md)
 - [Haunted Portrait](forensics/HauntedPortrait.md)
-- [The Phantom Login](forensics/The%20Phantom%20Login.md)
+- [The Phantom Login](forensics/The_Phantom_Login.md)
 
 ### 🌐 Web Exploitation
 - [Hemophobia](webex/hemophobia.md)
 
-## 🛠️ Tools & Techniques
 
-Tools used throughout the competition:
+## 📌 A Note
 
-- Python
-- Linux / Kali Linux
-- Wireshark
-- Ghidra
-- CyberChef
-- Burp Suite
-- Git
+All write-ups are shared for educational purposes and knowledge sharing.
 
-## 📝 Disclaimer
-
-These write-ups are created for educational purposes
-and to document our learning experience during CTF competitions.
+The goal isn't just to capture flags, but to understand the vulnerabilities, techniques, and thought processes behind every solution.
 
 ---
 
 <p align="center">
-  <i>Learn, Explore, Exploit, Repeat.</i>
-  <br>
-  <b>Team OneByOne 👻</b>
+  <i>"One challenge at a time. One flag at a time."</i>
+  <br><br>
+  <b>TEAM ONEBYONE 👻</b>
 </p>
